@@ -1,0 +1,4 @@
+rootProject.name = 'kafkamicro'
+include 'kafka-producer-wikimedia'
+include 'kafk-consumer-database'
+
